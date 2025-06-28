@@ -110,3 +110,10 @@ C:\GitHub\Todo\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 C:\GitHub\Todo\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\GitHub\Todo\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
 C:\GitHub\Todo\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\GitHub\Todo\TodoApi\bin\Debug\net8.0\frontend\package-lock.json
+C:\GitHub\Todo\TodoApi\bin\Debug\net8.0\frontend\package.json
+C:\GitHub\Todo\TodoApi\bin\Debug\net8.0\frontend\tsconfig.app.json
+C:\GitHub\Todo\TodoApi\bin\Debug\net8.0\frontend\tsconfig.json
+C:\GitHub\Todo\TodoApi\bin\Debug\net8.0\frontend\tsconfig.node.json
+C:\GitHub\Todo\TodoApi\bin\Debug\net8.0\package-lock.json
+C:\GitHub\Todo\TodoApi\bin\Debug\net8.0\package.json
