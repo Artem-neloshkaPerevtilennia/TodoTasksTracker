@@ -55,7 +55,7 @@ function App() {
 
   return (
     <div style={{ padding: "2rem" }}>
-      <h1>📝 Мій список справ</h1>
+      <h1 className="text-3xl font-bold underline">📝 Мій список справ</h1>
       <input
         value={newTitle}
         onChange={(e) => setNewTitle(e.target.value)}
